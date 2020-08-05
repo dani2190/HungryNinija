@@ -1,0 +1,4 @@
+/Users/danielgatabazi/Desktop/C-Sharp/HungryNinja/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.csprojAssemblyReference.cache
+/Users/danielgatabazi/Desktop/C-Sharp/HungryNinja/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.csproj.CoreCompileInputs.cache
+/Users/danielgatabazi/Desktop/C-Sharp/HungryNinja/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.AssemblyInfoInputs.cache
+/Users/danielgatabazi/Desktop/C-Sharp/HungryNinja/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.AssemblyInfo.cs
